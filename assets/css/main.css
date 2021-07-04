@@ -13,7 +13,7 @@ html{
 }
 /* hero area start */
 .bg-hero{
-    background-image: url(/assets/images/top-banner.png);
+    background-image: url(./assets/images/top-banner.png);
     background-repeat: no-repeat;
 }
 .main_hero{
@@ -64,7 +64,7 @@ html{
 /* hero area end */
 /* dream area start */
 .bg-dream{
-    background-image: url(/assets/images/dream-bg.png);
+    background-image: url(./assets/images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -103,7 +103,7 @@ html{
 /* dream area end */
 /* experience area start */
 .bg_experience{
-    background-image: url(/assets/images/exp-bg.png);
+    background-image: url(./assets/images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
     padding-bottom: 12rem;
