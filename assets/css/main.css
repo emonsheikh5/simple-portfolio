@@ -15,7 +15,6 @@ html{
 .bg-hero{
     background-image: url(/assets/images/top-banner.png);
     background-repeat: no-repeat;
-    background-size: cover;
 }
 .main_hero{
     display: flex;
@@ -167,10 +166,10 @@ html{
 footer{
     height: 3rem;
 }
-footer .copyrigt_footer{
+footer .copyright_footer{
     text-align: center;
 }
-footer .copyrigt_footer p{
+footer .copyright_footer p{
     font-size: 1.4rem;
     font-weight: 400;
     color: dimgray;
